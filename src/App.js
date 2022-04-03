@@ -3,7 +3,7 @@ import "./App.css";
 import React from "react";
 
 function generateDeck() {
-  const symbols = ["∆", "ß", "£", "§", "•", "$", "+", "ø"];
+  const symbols = ["🐻", "🐷", "🐔", "🐴", "🐮", "🐶", "🦁", "🐯"]
   const deck = [];
 
   for (let i = 0; i < 16; i++) {
