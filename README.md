@@ -2,7 +2,7 @@
 
 This is a memory game created using ReactJS.
 
-- A player will select a card, guess and try to guess which card matches. 
+- A player will select a card, and try to guess which unflipped card matches. 
 - If the card is a match, both cards will remain flipped up. 
 - If it is not a match, both cards will flip back over.
 
